@@ -8,7 +8,11 @@ This app helps you manage your income, expenses, and balance, while providing vi
 
 ✅ Add, edit, and delete transactions
 
+<img width="1256" height="732" alt="image" src="https://github.com/user-attachments/assets/204c7c8e-79ae-4ce2-9679-47f5e905a355" />
+
 ✅ Categorize transactions (e.g., Shopping, Food, Bills, etc.)
+
+<img width="1297" height="693" alt="image" src="https://github.com/user-attachments/assets/98565722-50cb-4aaa-be0f-feeadb2517a0" />
 
 ✅ Dashboard with:
 
