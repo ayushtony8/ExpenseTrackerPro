@@ -16,6 +16,8 @@ This app helps you manage your income, expenses, and balance, while providing vi
 
 📈 Spline chart – Income vs. Expense (last 7 days)
 
+<img width="1912" height="806" alt="image" src="https://github.com/user-attachments/assets/5c61aff8-1497-4a5f-b5c5-3390dcbd8ebf" />
+
 ✅ Automatic calculation of :
  Total Income,
 Total Expense,
